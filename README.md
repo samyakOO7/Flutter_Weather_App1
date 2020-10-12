@@ -1,6 +1,5 @@
 # weather_app
-<img="file:///Users/samyakgantayat/Desktop/Screenshot%201942-07-20%20at%206.17.24%20AM.png"
->
+<img="file:///Users/samyakgantayat/Desktop/Screenshot%201942-07-20%20at%206.17.24%20AM.png">
 A new Flutter application.
 
 ## Getting Started
