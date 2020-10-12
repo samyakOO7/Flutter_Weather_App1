@@ -4,7 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38cf6e31-f4ee-400d-866e-414d826b2d4e" name="Default Changelist" comment="The following changes are done">
+    <list default="true" id="38cf6e31-f4ee-400d-866e-414d826b2d4e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -40,7 +41,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Flutter.main.dart">
@@ -90,10 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602464927006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="The following changes are done">
+      <created>1602465661741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602465661741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lib" />
+    </ignored-roots>
     <MESSAGE value="The following changes commited" />
     <MESSAGE value="The following changes are done" />
     <option name="LAST_COMMIT_MESSAGE" value="The following changes are done" />
@@ -116,15 +127,15 @@
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="611" y="255" key="#settingPage.dart/0.23.1680.952@0.23.1680.952" timestamp="1601216868064" />
-    <state x="467" y="80" key="CommitChangelistDialog2" timestamp="1602464935930">
+    <state x="467" y="80" key="CommitChangelistDialog2" timestamp="1602465661517">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="467" y="80" key="CommitChangelistDialog2/0.23.1680.952@0.23.1680.952" timestamp="1602464935930" />
-    <state x="835" y="379" width="290" height="258" key="Github.ShareDialog" timestamp="1602465575394">
+    <state x="467" y="80" key="CommitChangelistDialog2/0.23.1680.952@0.23.1680.952" timestamp="1602465661517" />
+    <state x="835" y="379" width="290" height="258" key="Github.ShareDialog" timestamp="1602466044296">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="835" y="378" width="290" height="258" key="Github.ShareDialog/0.23.1680.949@0.23.1680.949" timestamp="1602463998992" />
-    <state x="835" y="379" key="Github.ShareDialog/0.23.1680.952@0.23.1680.952" timestamp="1602465575394" />
+    <state x="835" y="379" key="Github.ShareDialog/0.23.1680.952@0.23.1680.952" timestamp="1602466044296" />
     <state x="676" y="191" key="Github.UntrackedFilesDialog" timestamp="1602464149271">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
@@ -165,14 +176,14 @@
     <state width="679" height="231" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1602464427199" />
     <state width="1358" height="233" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1601432500859" />
     <state width="1358" height="232" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1601832388901" />
-    <state x="481" y="116" key="SettingsEditor" timestamp="1602465355593">
+    <state x="481" y="116" key="SettingsEditor" timestamp="1602466307209">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="481" y="116" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1602465355593" />
-    <state x="580" y="217" key="Vcs.Push.Dialog.v2" timestamp="1602465642749">
+    <state x="481" y="116" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1602466307209" />
+    <state x="580" y="217" key="Vcs.Push.Dialog.v2" timestamp="1602466021945">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="580" y="217" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1602465642749" />
+    <state x="580" y="217" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1602466021945" />
     <state x="380" y="159" width="1200" height="710" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601833125035">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -188,10 +199,10 @@
     <state x="650" y="347" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1601234602673" />
     <state x="650" y="348" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1601833103338" />
     <state x="650" y="350" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1601144692349" />
-    <state x="760" y="402" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602464636162">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="760" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602465974417">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="760" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.952@0.23.1680.952" timestamp="1602464303051" />
+    <state x="760" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.952@0.23.1680.952" timestamp="1602465974417" />
     <state x="760" y="402" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.954@0.23.1680.954" timestamp="1602464636162" />
     <state x="677" y="276" key="git4idea.merge.GitMergeDialog" timestamp="1602465286227">
       <screen x="0" y="23" width="1680" height="952" />
