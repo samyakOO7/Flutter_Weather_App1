@@ -4,7 +4,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38cf6e31-f4ee-400d-866e-414d826b2d4e" name="Default Changelist" comment="" />
+    <list default="true" id="38cf6e31-f4ee-400d-866e-414d826b2d4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,20 @@
       <option name="presentableId" value="Default" />
       <updated>1600700855599</updated>
     </task>
+    <task id="LOCAL-00001" summary="The following changes are done">
+      <created>1602464877690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602464877690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The following changes commited" />
+    <MESSAGE value="The following changes are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="The following changes are done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="611" y="254" key="#CloudM.dart" timestamp="1601432498439">
@@ -86,6 +101,10 @@
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="611" y="255" key="#settingPage.dart/0.23.1680.952@0.23.1680.952" timestamp="1601216868064" />
+    <state x="467" y="80" key="CommitChangelistDialog2" timestamp="1602464876461">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="467" y="80" key="CommitChangelistDialog2/0.23.1680.952@0.23.1680.952" timestamp="1602464876461" />
     <state x="835" y="379" width="290" height="258" key="Github.ShareDialog" timestamp="1602464183903">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
