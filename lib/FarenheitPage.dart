@@ -248,7 +248,7 @@ class  _FarenheitPage extends State<FarenheitPage> {
                       child:MaterialButton(
                         onPressed: () {
                           setState(() {
-                            if(convert_state=="metric") {
+                            if(convert_state=="imperial") {
                               Navigator.push(context, MaterialPageRoute(builder: (context) =>  HomePage(result: result,)));
                               set_text="°F";
                             }
