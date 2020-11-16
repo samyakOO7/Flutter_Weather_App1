@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 
 import 'package:intl/intl.dart';
-
+import 'package:http/http.dart'
 import 'package:weather_app/settingPage.dart';
 import 'package:http/http.dart' as http;
 
@@ -84,8 +84,8 @@ class HomePage extends StatefulWidget{
   _HomePage(this.result);
   final String result;
   Future getWeather() async {
-    http.Response response = await http.get(
-        'http://api.openweathermap.org/data/2.5/weather?q=$result&units=$convert_state&appid=799a8dbe87364d4c37b432c8c934794e');
+   Response response = await get(
+        'https://api.openweathermap.org/data/2.5/weather?q=$result&units=$convert_state&appid=799a8dbe87364d4c37b432c8c934794e');
 
 
     var results = jsonDecode(response.body);
@@ -101,8 +101,8 @@ class HomePage extends StatefulWidget{
     });
   }
   Future monthly() async {
-  http.Response response1 = await http.get(
-      'http://api.openweathermap.org/data/2.5/forecast?q=$result&units=$convert_state&appid=799a8dbe87364d4c37b432c8c934794e');
+  Response response1 = await get(
+      'https://api.openweathermap.org/data/2.5/forecast?q=$result&units=$convert_state&appid=799a8dbe87364d4c37b432c8c934794e');
   var results1 = jsonDecode(response1.body);
   setState(() {
 
